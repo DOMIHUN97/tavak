@@ -1,0 +1,26 @@
+table { 
+    border-spacing: 10px;
+    border-collapse: separate;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.vilagos{
+    background-color: lightblue;
+    color: blue;
+}
+.sotet{
+    background-color: rgb(141, 207, 230);
+    color: blue;
+}
+.szurke{
+    background-color: rgb(150, 148, 148);
+    color: blue;
+}
+.vilagosszurke{
+    background-color: rgb(201, 195, 195);
+    color:blue;
+}
+.vilagoskekpiros{
+    background-color: rgb(201,195, 195);
+    color: red;
+}
